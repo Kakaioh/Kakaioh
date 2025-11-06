@@ -9,12 +9,6 @@
 
 \### :zap: Actividad reciente
 
-<!--START\_SECTION:activity-->
+<!--START_SECTION:activity-->
 
-<!--END\_SECTION:activity-->
-
-
-
-<!--RECENT_ACTIVITY:start-->
-
-<!--RECENT\_ACTIVITY:last\_update-->
+<!--END_SECTION:activity-->
