@@ -6,3 +6,15 @@
 - ⚡ Fun fact: I don't really like programming. Or code. Or coders. 😁
 
 ![alt text](image.png)
+
+\### :zap: Actividad reciente
+
+\<!--START\_SECTION:activity-->
+
+\<!--END\_SECTION:activity-->
+
+
+
+\<!--RECENT\_ACTIVITY:start-->
+
+\<!--RECENT\_ACTIVITY:last\_update-->
