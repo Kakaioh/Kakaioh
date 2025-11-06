@@ -6,12 +6,13 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: Update Profile README
-    steps:
-      - uses: actions/checkout@v4.2.2
+  build: # <-- Nivel 1 (2 espacios)
+    runs-on: ubuntu-latest # <-- Nivel 2 (4 espacios)
+    name: Update Profile README # <-- Nivel 2 (4 espacios)
+    steps: # <-- Nivel 2 (4 espacios)
       
-     - uses: jamesgeorge007/github-activity-readme@master
-        env:
+      - uses: actions/checkout@v4.2.2 # <-- Nivel 3 (6 espacios, empieza con guion)
+      
+      - uses: jamesgeorge007/github-activity-readme@master # <-- Nivel 3 (6 espacios, empieza con guion)
+        env: # <-- Nivel 4 (8 espacios)
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
