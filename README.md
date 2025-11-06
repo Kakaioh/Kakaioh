@@ -7,7 +7,7 @@
 
 ![alt text](image.png)
 
-\### :zap: Actividad reciente
+### :zap: Actividad reciente
 
 <!--START_SECTION:activity-->
 
