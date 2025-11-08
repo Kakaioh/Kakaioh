@@ -10,10 +10,10 @@
 ### :zap: Actividad reciente
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/Kakaioh/miCuartoRepo/issues/1) in [Kakaioh/miCuartoRepo](https://github.com/Kakaioh/miCuartoRepo)
-2. ❗ Opened issue [#1](https://github.com/Kakaioh/miCuartoRepo/issues/1) in [Kakaioh/miCuartoRepo](https://github.com/Kakaioh/miCuartoRepo)
-3. 🔒 Closed issue [#3](https://github.com/Kakaioh/miPrimerRepo/issues/3) in [Kakaioh/miPrimerRepo](https://github.com/Kakaioh/miPrimerRepo)
-4. 💪 Opened PR [#4](undefined) in [Kakaioh/miPrimerRepo](https://github.com/Kakaioh/miPrimerRepo)
-5. ❗ Opened issue [#3](https://github.com/Kakaioh/miPrimerRepo/issues/3) in [Kakaioh/miPrimerRepo](https://github.com/Kakaioh/miPrimerRepo)
+1. 💪 Opened PR [#3](undefined) in [Kakaioh/miCuartoRepo](https://github.com/Kakaioh/miCuartoRepo)
+2. 💪 Opened PR [#2](undefined) in [Kakaioh/miCuartoRepo](https://github.com/Kakaioh/miCuartoRepo)
+3. 🔒 Closed issue [#1](https://github.com/Kakaioh/miCuartoRepo/issues/1) in [Kakaioh/miCuartoRepo](https://github.com/Kakaioh/miCuartoRepo)
+4. ❗ Opened issue [#1](https://github.com/Kakaioh/miCuartoRepo/issues/1) in [Kakaioh/miCuartoRepo](https://github.com/Kakaioh/miCuartoRepo)
+5. 🔒 Closed issue [#3](https://github.com/Kakaioh/miPrimerRepo/issues/3) in [Kakaioh/miPrimerRepo](https://github.com/Kakaioh/miPrimerRepo)
 <!--END_SECTION:activity-->
 
